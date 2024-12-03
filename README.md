@@ -31,7 +31,7 @@ Koubotto has a calender system where you can view, add, edit, or remove events
 ```
 /add_event Meeting 1733504400
 ```
-This will create a named event on the calendar with a event ID. The date must be in epoch format. You can use the following [converter](https://www.unixtimestamp.com) to convert human readable date to epoch time
+This will create a named event on the calendar with a generated event ID. The date must be in epoch format. You can use the following [converter](https://www.unixtimestamp.com) to convert human readable date to epoch time
 
 ### Removing Events `/remove_event <ID>`
 ```
